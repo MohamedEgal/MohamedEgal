@@ -1,5 +1,5 @@
 <h1 align="center">Heisann!👋 I'm Mohamed Egal </h1>
-<h3 align="center">A Computer Science student and passionate coder</h3>
+<h3 align="center">Computer Systems Implementor and DnD enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/mohegal" target="blank"><img src="https://img.shields.io/twitter/follow/mohegal?logo=twitter&style=for-the-badge" alt="mohegal" /></a> </p>
 
